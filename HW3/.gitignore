@@ -1,2 +1,4 @@
 src
 output
+predicted_frames
+residual_frames
